@@ -6,4 +6,6 @@ Se debe clonar el repositorio con el comando git clone [https://github.com/victo
 
 Luego se debe entrar a la carpeta del proyecto con el comando [cd encargo-react-ipg]
 
-se intalan las dependencias con [npm install] para finalizar arracando la aplicacion con [npm start]
+Se intalan las dependencias con [npm install] para finalizar arracando la aplicacion con [npm run dev]
+
+Para acceder a la aplicacion debera dar ctrl+click en el link que aparecera en la terminal
